@@ -207,7 +207,7 @@ footer p {
 }
 
 /*TABLET*/
-@media (min-width:1024px) and (max-width:1366px){
+@media (min-width:768px) and (max-width:1366px){
     body {
     width:auto;
     margin:0;
@@ -348,7 +348,7 @@ footer p {
 }
 
 /*SMARTPHONES*/
-@media (min-width:200px) and (max-width:926px){
+@media (min-width:200px) and (max-width:767px){
     body {
     width:auto;
     margin:0;
